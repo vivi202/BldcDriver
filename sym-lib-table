@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "DRV8313PWPR")(type "Legacy")(uri "${KIPRJMOD}/lib/DRV8313PWPR/DRV8313PWPR.lib")(options "")(descr ""))
+)
