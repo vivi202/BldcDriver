@@ -1,7 +1,7 @@
 # BldcDriver
 A simple bldc driver using drv8313.
 ## Features 
-- capable of driving 2 bldc motors 
+- capable of driving 2 bldc motors using 3xPWM 
 - peak current of 2.5A
 - Operating Supply Voltage Range 8V to 48V 
 ## Interactive bom
